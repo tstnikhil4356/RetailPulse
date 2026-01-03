@@ -338,6 +338,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 **Your Name**  
 📧 nikhilsingh652004@gmail.com 
+
 💼 [LinkedIn](https://linkedin.com/nikhil-singh-b8b559237)  
 🐙 [GitHub](https://github.com/tstnikhil4356)  
 🌐 [Portfolio](nikhilsingh.framer.ai)
